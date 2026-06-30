@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0063/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 海叟集原䟦先司寇怡閒公守松日得袁海叟詩愛誦之後居東省託矩菴陳公校刋今逾廿餘稔偶於南都又得叟全集觀者謂宜重刻詵以板存手澤弗忍廢因録遺别刻並藏家塾嗚呼詩莫盛於杜至今無有號能選而敢易一字者海叟宗杜有大名於國初輙為選者遺其半暇嘗校評未見集中之遺者果皆弗如選也然則詩安可以易選乎哉海叟風概詳見矩庵崆峒二公序兹不贅嘉靖八年嵗次己丑秋七月丙午南京鴻臚寺署丞致仕劉詵䟦
+  hash: sha256:749bc1c788b6dc6d159d8eea1b819e8611a8fd07fc884aaa11d2970b4ac57d65
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0063_WYG_005-1a, image: WYG1233/WYG1233-0215c.png}
+metadata:
+  title: 海叟集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:18:02.973825'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR4e0063/KR4e0063_005.txt
+hash: sha256:b1e8f30380bfcf2861d607066869159acfacfc31cb17dac8c99cdcaa7cd69f08
